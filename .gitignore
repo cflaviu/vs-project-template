@@ -1,0 +1,17 @@
+*.ilk
+*.iobj
+*.ipch
+*.ipdb
+*.lastbuildstate
+*.log
+*.obj
+*.opendb
+*.pch
+*.pdb
+*.db
+*.exe
+*.idb
+*.suo
+*.tlog
+*.user
+/tmp/Debug
